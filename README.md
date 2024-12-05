@@ -21,3 +21,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anzeebasnet&show_icons=true&locale=en" alt="anzeebasnet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzeebasnet&" alt="anzeebasnet" /></p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anzeebasnet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anzeebasnet&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
