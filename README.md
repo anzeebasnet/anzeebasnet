@@ -18,8 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anzeebasnet&show_icons=true&locale=en&layout=compact" alt="anzeebasnet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anzeebasnet&show_icons=true&locale=en" alt="anzeebasnet" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzeebasnet&" alt="anzeebasnet" /></p>
 
 <div align="center">
