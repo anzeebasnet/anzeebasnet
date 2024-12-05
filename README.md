@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angela Basnet</h1>
+<h1 align="center">Hi 👋, It's Angela Basnet</h1>
 <h3 align="center">An avid software developer passionate about learning and building, based in Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anzeebasnet&label=Profile%20views&color=0e75b6&style=flat" alt="anzeebasnet" /> </p>
