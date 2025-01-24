@@ -20,8 +20,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anzeebasnet&show_icons=true&locale=en" alt="anzeebasnet" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzeebasnet&" alt="anzeebasnet" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzeebasnet&" alt="anzeebasnet" /></p>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anzeebasnet&radius=16&theme=react&area=true&order=5&bg_color=ffffff&color=000000&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
