@@ -2,7 +2,7 @@
 <h3 align="center">An avid software developer passionate about learning and building.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzeebasnet" alt="anzeebasnet" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzeebasnet&rank=-C,-B" alt="anzeebasnet" /></a> </p>
 
 
 - 📫 How to reach me **angellabasnet@gmail.com**
